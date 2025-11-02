@@ -1,0 +1,5 @@
+pycuda
+tensorrt
+opencv-python
+onnxruntime
+numpy<2
